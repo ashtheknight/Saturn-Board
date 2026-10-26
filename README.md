@@ -5,9 +5,9 @@ This is for the Starbie project, it look like the Saturn V.  I built this becaus
 <img width="248" height="1029" alt="Screenshot 2026-10-11 224937" src="https://github.com/user-attachments/assets/528d8841-ad76-4c22-910d-9771afa939fd" />
 # Saturn Board – bill of materials
 
-| Week | Tier | Parts funding |
-| --- | --- | --- |
-| Week 1 | Tier 1 | $21.42 USD |
+| Week | Tier |
+| --- | --- |
+| Week 1 | Tier 1 |
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | ---: | ---: | ---: | --- |
